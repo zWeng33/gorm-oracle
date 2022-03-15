@@ -6,7 +6,7 @@ require (
 	github.com/emirpasic/gods v1.12.0
 	github.com/sijms/go-ora v1.2.1
 	github.com/thoas/go-funk v0.7.0
-	gorm.io/gorm v1.22.5
+	gorm.io/gorm v1.23.2
 )
 
 require (
