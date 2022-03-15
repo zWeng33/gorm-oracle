@@ -3,7 +3,7 @@ package oracle
 import (
 	"database/sql"
 	"fmt"
-	"github.com/wdrabbit/gorm-oracle/clauses"
+	"github.com/zWeng33/gorm-oracle/clauses"
 	"regexp"
 	"strconv"
 	"strings"
